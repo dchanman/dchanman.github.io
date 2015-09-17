@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: dchanman
 locale: en_US
-description: Describe your website here.
+description: Derek Chan's Stuff
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://dchanman.github.io
 
 # Jekyll configuration
 
@@ -33,13 +33,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Derek Chan
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: derekchan1994@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: https://github.com/dchanman
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
