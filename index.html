@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
-search_omit: true
+title: About Me
+excerpt: "Derek Chan is a Software Engineer, fumbling with web design in the land of not-firmware."
+modified: 2014-08-08T19:44:38.564948-04:00
+image:
+  feature: bio-background.jpg
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+What's up.
