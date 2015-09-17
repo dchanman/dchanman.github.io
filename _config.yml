@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: dchanman
+title: Derek Chan
 locale: en_US
-description: Derek Chan's Stuff
+description: some bits
 logo: site-logo.png
 search: true
 url: http://dchanman.github.io
