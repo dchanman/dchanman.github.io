@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Test Post"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-09-17T09:56:46-07:00
+---
+Hello!
+
+{% highlight c %}
+
+int main()
+{
+	fprintf(stdout, "Hello World!\n");
+	return 0;
+}
+{% endhighlight %}
