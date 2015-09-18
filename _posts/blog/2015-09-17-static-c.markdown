@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Encapsulation in C"
+modified:
+categories: blog
+excerpt: Using static to create encapsulation
+tags: [programming,c]
+image:
+  feature:
+date: 2015-09-17T17:47:28-07:00
+---
+During one of my internships, a company I worked with encapsulated their C code. To me, it felt familiar to the Object-oriented programming I was used to (C++ and Java). 
+
+*"Object-oriented C??"*, I gasped. I never heard of such a thing.
+
+I knew that you could use the ***static*** keyword in C to encapsulate variables to the scope of the file as so:
+
+{% highlight c %}
+static int _hidden_value = 0;
+
+void public_function()
+{
+	// read or modify _hidden_value
+}
+{% endhighlight %}
+
+And I knew you could use ***static*** to encapsulate functions to the scope of the file as well:
+
+{% highlight c %}
+static void private_function_1(void);
+static void private_function_2(void);
+
+void public_function(void)
+{
+	private_function_1();
+	private_function_2();
+	return;	
+}
+{% endhighlight %}
+
+Using ***static*** as so for variables and functions will already will make your C code cleaner. This is essentially having private functions and variables, except in C! If you need to access the private variables, you can even create getter and setter functions.
+
+In this way, a C-file becomes a janky C object with its own set of private functions and public APIs. For medium to large C projects, using ***static*** really shines by keeping code organized and tidy!
