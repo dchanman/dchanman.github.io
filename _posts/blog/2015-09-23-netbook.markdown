@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Netbook Upgrades"
+modified:
+categories: blog
+excerpt:
+tags: [diy]
+image:
+  feature:
+date: 2015-09-23T15:45:55-07:00
+---
+
+Five years ago, I saved up enough money from my high school summer job to buy an [Asus Eee PC Netbook](https://www.asus.com/Notebooks/Eee_PC_1015PEM/) for about $300.
+
+It was amazing for what I needed it for: it surfed the web, Skyped, and played Starcraft Brood War perfectly fine. Eventually, I took it to my summer job and used it to play Plants vs Zombies when work got boring - my netbook literally helped pay for itself.
+
+Going into university, I started bringing my tiny netbook over my heavy Lenovo laptop. It was fantastic for doing online WebWorK assignments, Microsoft Office work, and taking notes with Evernote. I've lent it around to friends who ended up using it as a travel laptop and school laptops.
+
+Ultimately, this tiny Eee PC got a ton of mileage over the last 5 years straight out of the box. I was sad to see it collecting dust before going into third year, so I decided to try and repurpose it as a mini powerhouse work machine for school.
+
+Overall, here's everything that I've tinkered on my Asus Eee PC:
+
+### RAM Upgrade ###
+The netbook comes with a slot in the back that's just begging for a RAM upgrade. I paid $30 for a 1GB stick of RAM, bumping up my memory to the 2GB max (Eee PC only supports up to 2GB).
+
+### SSD Upgrade ###
+The Eee PC came out of the box with 256GB of hard drive. I noticed that NCIX had a Back To School sale so I snatched up a 128GB SSD for about $70. Replacing the harddrive on the Eee PC was incredibly simple - the netbook could be taken apart and put back together easily. I followed [this teardown guide](http://www.insidemylaptop.com/disassemble-asus-eee-pc-1015px-netbook/).
+
+### Lubuntu ###
+I wanted a lightweight Linux operating system for my Eee PC to improve performance. My mentor from my last internship suggested Lubuntu, so I gave it a shot.
+
+While Lubuntu is admittedly minimalistic and slick, I have to admit that it's a pain in the ass to configure. I'll post some more in the future about the customizations I've made. For the most part, Lubuntu is like butter. It boots up in about 10 seconds with the SSD and its memory footprint lets my netbook do more processing (Chromium + PDF Viewer + Eclipse simultaneously).
+
+All together, I'm super happy with my netbook. It's served me well over the years and I'm happy it's still serving me to this day.
+
+(This blog post was written on my netbook)
