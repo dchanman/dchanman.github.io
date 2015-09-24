@@ -3,7 +3,7 @@ layout: post
 title: "Netbook Upgrades"
 modified:
 categories: blog
-excerpt:
+excerpt: Bringing an old netbook back to life
 tags: [diy]
 image:
   feature:
