@@ -14,9 +14,14 @@ Five years ago, I saved up enough money from my high school summer job to buy an
 
 It surfed the web, Skyped, and played Starcraft Brood War perfectly fine. Eventually, I took it to my summer job and used it to play Plants vs Zombies when work got boring - my netbook literally helped pay for itself.
 
-Going into university, I started bringing my tiny netbook over my heavy Lenovo laptop. It was fantastic for doing online WebWorK assignments, Microsoft Office work, and taking notes with Evernote. I even lent it around to friends who ended up using it as a travel laptop and school laptops.
+<figure>
+        <img src="https://www.asus.com/media/global/products/4Bf6sc0o5FMGABzh/P_500.jpg" alt="image">
+        <figcaption>Wow, 5 years. Even this official image from ASUS makes it look old.</figcaption>
+</figure>
 
-Ultimately, this tiny Eee PC got a ton of mileage over the last 5 years straight out of the box. I was sad to see it collecting dust before going into third year, so I decided to try and repurpose it as a mini powerhouse work machine for school.
+Going into university, I started bringing my tiny netbook over my heavy Lenovo laptop. It was fantastic for doing online WebWorK assignments, Microsoft Office work, and taking notes with Evernote. I even lent it around to friends who ended up using it for travel and school themselves!
+
+Ultimately, this tiny Eee PC got a ton of mileage over the last 5 years straight out of the box. I was sad to see it collecting dust before going into my third year of university, so I decided to try and repurpose it as a mini powerhouse work machine for school.
 
 Overall, here's everything that I've tinkered on my Asus Eee PC:
 
