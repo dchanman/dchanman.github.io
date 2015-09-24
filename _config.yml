@@ -9,6 +9,8 @@ url: http://dchanman.github.io
 
 # Jekyll configuration
 
+# Comments for Disqus enabled
+comments: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
