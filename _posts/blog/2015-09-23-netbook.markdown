@@ -29,10 +29,10 @@ Overall, here's everything that I've tinkered on my Asus Eee PC:
 The netbook comes with a slot in the back that's just begging for a RAM upgrade. I paid $30 for a 1GB stick of RAM, bumping up my memory to the 2GB max (Eee PC only supports up to 2GB).
 
 ### SSD Upgrade ###
-The Eee PC came out of the box with 256GB of hard drive. I took advantage of an NCIX Back To School sale and snatched up a 128GB SSD for about $70. Replacing the harddrive on the Eee PC was incredibly simple - the netbook could be taken apart and put back together easily. I followed [this teardown guide](http://www.insidemylaptop.com/disassemble-asus-eee-pc-1015px-netbook/).
+The Eee PC came out of the box with 256GB of hard drive. I took advantage of an NCIX Back To School sale and snatched up a [128GB SSD for about $70](http://www.ncix.com/detail/kingston-ssdnow-v300-120gb-sv300s37a-120g-9a-78078.htm). Replacing the harddrive on the Eee PC was incredibly simple - the netbook could be taken apart and put back together easily. I followed [this teardown guide](http://www.insidemylaptop.com/disassemble-asus-eee-pc-1015px-netbook/).
 
 ### Lubuntu ###
-I wanted a lightweight Linux operating system for my Eee PC to improve performance. My mentor from my last internship suggested Lubuntu, so I gave it a shot.
+I wanted a lightweight Linux operating system for my Eee PC to improve performance. My mentor from my last internship suggested [Lubuntu](http://lubuntu.net/), so I gave it a shot.
 
 While Lubuntu is admittedly minimalistic and slick, it's a pain in the ass to configure. I'll post some more in the future about the customizations I've made. For the most part, Lubuntu is like butter. It boots up in about 10 seconds with the SSD and its memory footprint lets my netbook do more processing (Chromium + PDF Viewer + Eclipse simultaneously).
 
