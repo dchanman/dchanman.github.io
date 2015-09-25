@@ -27,4 +27,4 @@ When I'm not wrangling code on my computer, you can find me exploring, biking, j
 </figure>
 Karate is also a huge part of my life. As an athlete on the Canadian National Team, I've been lucky to have travelled all around the world to train with elite athletes and compete in international tournaments.  
 
-There's so much to do and hardly enough time these days. Take a look at my blog to see my recent projects and musings.
+There's so much to do and hardly enough time these days. Take a look at my [blog](/blog) to see my recent projects and musings.
