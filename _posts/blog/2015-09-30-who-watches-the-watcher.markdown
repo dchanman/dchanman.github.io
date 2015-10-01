@@ -4,7 +4,7 @@ title: "Who Monitors the Monitor?"
 modified:
 categories: blog
 excerpt: The reason my last month as an intern turned me into an insomniac 
-tags: []
+tags: [programming, linux]
 image:
   feature:
 date: 2015-09-30T22:25:12-07:00
