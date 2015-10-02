@@ -38,8 +38,8 @@ for (i = 0; i < 10000000; i++) {
 }
 {% endhighlight %}
 
-Because we're only going through the input_numbers once, the sorting complexity is  
-**O(n log n)**.
+Because we're only going through the input_numbers once, the sorting complexity is:  
+**O(n)**.
 
 ---
 
