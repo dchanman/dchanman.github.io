@@ -1,0 +1,87 @@
+---
+layout: post
+title: "BIOMOD 2015"
+modified:
+categories: blog
+excerpt:
+tags: []
+image: 
+  feature: 
+date: 2015-11-04T22:59:13-08:00
+---
+
+![At Harvard](/images/blog/05-11-2015-biomod.jpg)
+
+People are doing some crazy things.
+
+Last week, I travelled with my girlfriend Ina and her student team from UBC to the BIOMOD competition at Harvard. [BIOMOD](http://biomod.net/) is an undergrad competition where students use biomolecules (the "_molecules of life_") to innovate and create novel designs.
+
+Although I come from a Computer Engineering background, there's still so many ideas and inspiration to be found from the biomolecular field. Truly, the best ideas are often the simplest ones and I don't know how one day the projects I've seen will find their way into influencing my work in the future.
+
+Here were some of the teams and projects that stood out the most for me.
+
+### Team UBerCoolecular _(University of British Columbia)_
+
+Coming from UBC myself, I can't help but feel so proud for my school team. This was their first year in the competition, and they've struggled to secure funding, find professor support, develop their own designs and experiments, and heart out their own websites and presentations from scratch. The team lead by Dan Fu truly made mountains out of nothing. They won the _Audience Choice Award_ in their breakout year and really established a foundation for the team in the years to come.
+
+In brief, Team UBerCoolecular created a nanostructure capable of simultaneously delivering multiple drugs. They used liposomes as drug carriers, DNA origami to reinforce the structure, and gold nanoparticles as a trigger mechanism. The team hopes that this nanostructure can decrease the negative side effects of cancer treatment.
+
+[![UBerCoolecular](http://img.youtube.com/vi/ha8EyXwukvk/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+
+[Check out their site here](http://www.ubcbiomod.com/) where you can see all of the hard work the UBC team has put into their design over the last year!
+
+### Team Sendai _(Tohoku University Japan)_
+
+These guys were the first place winners at BIOMOD 2015 by a landslide, placing top 3 in all judging categories at the competition (Best Presentation, Best Wiki, Best YouTube Video). [Check out their site](http://teamsendai.github.io/) and you'll see why; their design and explanations are so simple and elegant.
+
+[![Team Sendai](http://img.youtube.com/vi/lT29o2VH1vI/0.jpg)](https://www.youtube.com/watch?v=lT29o2VH1vI)
+
+They've essentially created a tube-like nanostructure that can grow by itself until it reaches a certain length. Obviously, when described like that, their work sounds underwhelming, but you have to see the brilliant geometry and nano-scale architecture at work to truly appreciate what they've managed to do.
+
+### Team SCUT-CHEM _(South China University of Technology)_
+
+This Chinese team blew my mind and were inspirational in showing what a team of undergraduates could accomplish. BIOMOD is a competition that requires teams to design, experiment, and report results in a one-year time period. In that time, SCUT-CHEM managed to find positive results in their design to treat Chronic Kidney Disease.
+
+In the timeline of their project, they were able to successfully design and create a molecule that would act as a kidney bandage. They then tested their solution on rats and were able to find positive results.
+
+Let me say that one more time.
+
+_In one year, this team managed to take their design through animal testing to retrieve promising results for treating Chronic Kidney Disease_.
+
+\#justchinathings.
+
+[![Team SCUT-CHEM](http://img.youtube.com/vi/etlKnsuRIAM/0.jpg)](https://www.youtube.com/watch?v=etlKnsuRIAM)
+
+[Check out their site here, they were incredible](http://scutchem.sinaapp.com/).
+
+### Team Kansai _(Kansai University, Japan)_
+
+This team was pure heart. After a morale-crushing string of teams presenting haemorrhaging-edge molecular designs, these guys stepped up unfazed to proudly show their achievements of the year.
+
+Their presentation started with them asking _"What day is it today?"_. The BIOMOD competition happened to take place on Halloween Day. Coincidentally, their project involved creating a _Chochin Obake_ out of DNA origami. Well, what is _Chochin Obake_? It's Japan's equivalent to a Jack-o-Lantern: a Japanese paper lantern ghost.
+
+[![Team Kansai](http://img.youtube.com/vi/4Gh-POFcJ14/0.jpg)](https://www.youtube.com/watch?v=4Gh-POFcJ14)
+
+These are the people that get you excited about science. When asked by a judge:
+
+> "DNA origami grows in two directions. How did you guys manage to restrict the growth of the tongue so that it only grew in one direction?"
+
+The team simply pulled out their microscopy image of nanoscopic ghost lanterns with tongues sticking out and stated:
+
+> "Here is the tongue. So, we did it!!"
+
+[They have the most entertaining video ever. Who knew DNA origami could be so damn fun.](http://openwetware.org/wiki/Biomod/2015/Kansai)
+
+### Team YOKABIO _(Kyushu Institute of Technology, Japan)_
+
+Lastly, this team's project was something that I felt like I could finally understand as a Computer Engineer. They created a DNA concentration digital-to-analog converter using DNA threshold gates (think of a comparator chip) and DNA logic gates. For me, this really got me thinking about how computers could be in the future, running on molecular reactions instead of silicon. 
+
+[![Team Kansai](http://img.youtube.com/vi/5jy7fUFr-ko/0.jpg)](https://www.youtube.com/watch?v=5jy7fUFr-ko)
+
+[Check them out here at their site.](http://biomod2015.github.io/yokabio_kyutech/)
+
+---
+
+![The UBC team won Audience Choice](/images/blog/05-11-2015-biomod2.jpg)
+
+Altogether, this opportunity to go to Boston with Ina and her UBC team was truly an eye-opening experience. This world is so incredible and there are so many things we could do that we don't even know. I think it's worth everyone's time to take a step back from the field they're in and see what amazing things everybody else is doing all around us. You never know where you'll find your next inspiration.
